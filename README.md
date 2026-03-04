@@ -32,8 +32,8 @@
   <li>Built using Python automation tools</li>
   <li>Automates messaging & response handling</li>
   <li>Demonstrates API integration & scripting skills</li>
-    #### Project : [`phishinglink detection`](https://github.com/sreezz-ai/WhatsBot)
 </ul>
+  #### Project : [`phishinglink detection`](https://github.com/sreezz-ai/WhatsBot)
 
 <hr>
 
