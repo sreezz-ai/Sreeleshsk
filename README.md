@@ -24,7 +24,6 @@
   <li>Developed using Python</li>
   <li>Detects suspicious URLs based on patterns & security checks</li>
   <li>Helps identify malicious links before user access</li>
-  #### Project : [`phishinglink detection`](nil)
 </ul>
 
 <h3>🤖 WhatsApp Automation Bot</h3>
@@ -67,5 +66,7 @@
 
 LinkedIn: YOUR_LINKEDIN <br>
 Email: yourmail@email.com
-#### Project : [`phishinglink detection`](https://github.com/sreezz-ai/WhatsBot)
+#### Project : [`WhatsappBot`](https://github.com/sreezz-ai/WhatsBot)
+#### Project : [`phishinglink detection`](nil)
+
 
