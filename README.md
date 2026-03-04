@@ -64,9 +64,9 @@
 
 <h2>📫 Connect With Me</h2>
 
-LinkedIn: YOUR_LINKEDIN <br>
-Email: yourmail@email.com
+LinkedIn: Sreelesh sk <br>
+Email: sreelesh2219@gmail.com
 #### Project : [`WhatsappBot`](https://github.com/sreezz-ai/whatsapp-bot4alpha)
-#### Project : [`phishinglink detection`](nil)
+#### Project : [`phishinglink detection`](https://github.com/sreezz-ai/phishing_detection_project)
 
 
