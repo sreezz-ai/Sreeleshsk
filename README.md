@@ -66,7 +66,7 @@
 
 LinkedIn: YOUR_LINKEDIN <br>
 Email: yourmail@email.com
-#### Project : [`WhatsappBot`](https://github.com/sreezz-ai/WhatsBot)
+#### Project : [`WhatsappBot`](https://github.com/sreezz-ai/whatsapp-bot4alpha)
 #### Project : [`phishinglink detection`](nil)
 
 
