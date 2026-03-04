@@ -33,8 +33,6 @@
   <li>Automates messaging & response handling</li>
   <li>Demonstrates API integration & scripting skills</li>
 </ul>
-  #### Project : [`phishinglink detection`](https://github.com/sreezz-ai/WhatsBot)
-
 <hr>
 
 <h2>📜 Certifications</h2>
@@ -69,3 +67,5 @@
 
 LinkedIn: YOUR_LINKEDIN <br>
 Email: yourmail@email.com
+#### Project : [`phishinglink detection`](https://github.com/sreezz-ai/WhatsBot)
+
