@@ -10,7 +10,7 @@
 <h2>🚀 About Me</h2>
 <ul>
   <li>🎓 BCA in Cybersecurity</li>
-  <li>📍 Calicut, India</li>
+  <li>📍 Kerala, India</li>
   <li>🔐 Passionate about Ethical Hacking & Network Security</li>
   <li>☁️ Learning AWS Cloud & Security Operations</li>
 </ul>
