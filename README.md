@@ -60,10 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreezz-ai&layout=compact&theme=tokyonight" />
 <hr>
 
-<h2>📫 Connect With Me</h2>
-
-LinkedIn: YOUR_LINKEDIN <br>
-Email: yourmail@email.com" />
 </p>
 
 <hr>
